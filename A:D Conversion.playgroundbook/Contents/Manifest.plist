@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SupportsDarkMode</key>
+	<true/>
+	<key>Version</key>
+	<string>6.1</string>
+	<key>ContentVersion</key>
+	<string>1.0.0</string>
+	<key>Name</key>
+	<string>A/D Conversion</string>
+	<key>ContentIdentifier</key>
+	<string>com.philipkronawetter.playgroundbook.analog</string>
+	<key>DeploymentTarget</key>
+	<string>ios13.0</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>3.1</string>
+	<key>UserModuleMode</key>
+	<string>Disabled</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>SwiftVersion</key>
+	<string>5.1</string>
+	<key>ImageReference</key>
+	<string>BookIcon.png</string>
+	<key>Chapters</key>
+	<array>
+		<string>Analog.playgroundchapter</string>
+	</array>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array/>
+</dict>
+</plist>
